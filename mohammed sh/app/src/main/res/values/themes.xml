@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.ModemTabs" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+        <item name="colorPrimary">#2457A6</item>
+        <item name="colorPrimaryVariant">#173B75</item>
+        <item name="colorSecondary">#03A9F4</item>
+    </style>
+</resources>
